@@ -13,7 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>Home</h1>
 
         <div className={styles.grid}>
-          <a href="#!" className={styles.card}>
+          <a href="https://github.com/tryp031/calculator-nextjs#readme" target="_blank" className={styles.card}>
             <h3>Documentation &rarr;</h3>
             <p>Check and create you own calculator.</p>
           </a>
