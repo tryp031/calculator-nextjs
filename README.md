@@ -1,13 +1,19 @@
-# Calculadora
+# Calculator-NextJs
 
-_Es un proyecto de aprendizaje para entender funciones basicas de react_
+_Proyecto de aprendizaje para los primeros pasos por el mundo de react, el proyecto actualmente utiliza framework de NextJs como apoyo para generar sitios web estaticos._
 
-### Pre-requisitos 📋
+### Herramientas 📋
 
-Es necesario tener instalado las siguientes herramientas:
+Es necesario tener instalado las siguientes herramientas preferentemente la ultima version disponible:
 
-- [Visual Studio Code](https://code.visualstudio.com/download).
 - [Node Js](https://nodejs.org/es/).
+- [Visual Studio Code](https://code.visualstudio.com/download).
+
+_Extras [Plugins]:_
+Es recomendado tener instalado los siguientes plugins de Visual Studio Code para agilizar el desarrollo.
+
+- [Pretty](https://marketplace.visualstudio.com/items?itemName=mblode.pretty-formatter)
+- []()
 
 ## Comenzando 🚀
 
